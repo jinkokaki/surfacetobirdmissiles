@@ -1,7 +1,7 @@
 # surfacetobirdmissiles
 
 Stability 1<x<2
-Make finds out of plywood or basswood or plastic
+Make fins out of plywood or basswood or plastic
 Make rocket more aerodynamic
 3 parachutes larger?
 Use sharp nose cone 
